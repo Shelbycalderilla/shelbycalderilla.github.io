@@ -3,6 +3,8 @@
 hello ! my name is Shelby and i am currently a first-year 
 majoring in computer science at Cal State Fullerton !!
 
+my github page us http://github.com/shelbycalderilla. 
+
 ## Favorite CPSC 120L Lab's 
 
 * Lab 2 part 1 
